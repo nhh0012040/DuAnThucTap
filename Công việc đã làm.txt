@@ -1,0 +1,19 @@
+BackEnd:
+ Đăng ký tài khoản(khi đăng ký thì trạng thái của tài khoản sẽ là chưa kích hoạt => userstatus) => gửi mã xác thực về email.
+ Chức năng xác thực đăng ký tài khoản
+ Đăng nhập và xác thực người dùng
+ Quên mật khẩu, tạo mật khẩu mới
+ Đổi mật khẩu
+ Lấy thông tin của tất cả người dùng, lấy thông tin người dùng theo id
+ Hiển thị các bộ phim nổi bật(sắp xếp theo số lượng đặt vé) 
+Thêm, sửa, xóa Cinema(Admin) 
+Thêm, sửa, xóa Room(Admin) 
+Thêm, sửa, xóa Seat(Admin) 
+Thêm, sửa, xóa Food(Admin) 
+Thêm, sửa, xóa Movie
+"Chọn phim => Chọn rạp => Chọn phòng => Chọn suất chiếu, đồ ăn => Tạo hóa đơn => thanh toán VNPay
+
+Fullstack: 
+ Vẽ giao diện trang đăng ký, đăng nhập, quên mật khẩu, đổi mật khẩu
+"- Trang Home: hiển thị loạt phim nổi bật, có thể xem chi tiết từng phim và đặt vé
+Chọn phim => Hiển thị màn thông tin cơ bản và chọn rạp => Màn chọn phòng => Màn hiển thị danh sách ghế và trạng thái ghế => Màn hiển thị danh sách đồ ăn
